@@ -1,0 +1,74 @@
+Le logiciel libre Apache HTTP Server (Apache) est un serveur HTTP créé et maintenu au sein de la fondation Apache. Jusqu'en avril 20193, ce fut le serveur HTTP le plus populaire du World Wide Web. Il est distribué selon les termes de la licence Apache.
+
+
+
+Un navigateur web (web browser en anglais et « fureteur » au Québec) est un logiciel conçu pour consulter et afficher le World Wide Web. Techniquement, c'est au minimum un client HTTP.
+
+
+
+Il existe de nombreux navigateurs web, pour toutes sortes de matériels (ordinateur personnel, tablette tactile, téléphones mobiles, etc.) et pour différents systèmes d'exploitation (GNU/Linux, Windows, Mac OS, iOS et Android). Dans les années 2010, les plus utilisés sont Google Chrome, Mozilla Firefox, Internet Explorer/Edge, Safari, Opera. 
+
+
+
+Un client HTTP est un logiciel conçu pour se connecter à un serveur HTTP (Hypertext Transfer Protocol).
+
+
+
+Dans le cas le plus courant, il s'agit d'un navigateur web. Les autres clients sont généralement des programmes automatisant des transferts. Par exemple un robot d'indexation permet à un moteur de recherche d'explorer le contenu des sites web. Un « aspirateur de site Web » comme wget est un client HTTP permettant à un utilisateur de copier tout ou une partie d'un site à l'aide d'une seule commande. Enfin il existe des bibliothèques logicielles dans de nombreux langages de programmation qui permettent de faire des requêtes HTTP. Les informaticiens peuvent alors facilement réaliser des clients HTTP adaptés à leurs besoins particuliers1. 
+
+
+
+MySQL (prononcer [maj.ɛs.ky.ɛl]) est un système de gestion de bases de données relationnelles (SGBDR). Il est distribué sous une double licence GPL et propriétaire. Il fait partie des logiciels de gestion de base de données les plus utilisés au monde4, autant par le grand public (applications web principalement) que par des professionnels, en concurrence avec Oracle, PostgreSQL et Microsoft SQL Server. 
+
+
+
+phpMyAdmin (PMA) est une application Web de gestion pour les systèmes de gestion de base de données MySQL réalisée principalement en PHP et distribuée sous licence GNU GPL.
+
+
+
+PHP: Hypertext Preprocessor8, plus connu sous son sigle PHP (sigle auto-référentiel), est un langage de programmation libre9, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP8, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet.
+
+
+
+PHP a permis de créer un grand nombre de sites web célèbres, comme Facebook, Wikipédia, etc.10 Il est considéré comme une des bases de la création de sites web dits dynamiques mais également des applications web. 
+
+
+
+Dans un réseau informatique, un client est le logiciel qui envoie des demandes à un serveur. Il peut s'agir d'un logiciel manipulé par une personne, ou d'un bot. Est appelé client aussi bien l'ordinateur depuis lequel les demandes sont envoyées que le logiciel qui contient les instructions relatives à la formulation des demandes et la personne qui opère les demandes.
+
+
+
+L'ordinateur client est généralement un ordinateur personnel ordinaire, équipés de logiciels relatifs aux différents types de demandes qui vont être envoyées, comme un navigateur web, un logiciel client pour le World wide web. 
+
+
+
+Un serveur informatique est un dispositif informatique (matériel ou logiciel) qui offre des services, à un ou plusieurs clients (parfois des milliers). Les services les plus courants sont :
+
+    l'accès aux informations du World Wide Web ;
+    le courrier électronique ;
+    le partage d'imprimantes ;
+    le commerce électronique ;
+    le stockage en base de données ;
+    la gestion de l'authentification et du contrôle d'accès ;
+    le jeu et la mise à disposition de logiciels applicatifs.
+
+
+
+Un serveur fonctionne en permanence, répondant automatiquement à des requêtes provenant d'autres dispositifs informatiques (les clients), selon le principe dit client-serveur. Le format des requêtes et des résultats est normalisé, se conforme à des protocoles réseaux et chaque service peut être exploité par tout client qui met en œuvre le protocole propre à ce service.
+
+
+
+Les serveurs sont utilisés par les entreprises, les institutions et les opérateurs de télécommunication. Ils sont courants dans les centres de traitement de données et le réseau Internet.
+
+
+
+D'après le cabinet Netcraft, il y a en mars 2014 plus de 412 millions de serveurs web dans le monde, et leur nombre est en augmentation constante depuis l'invention du World Wide Web en 19911. 
+
+
+
+Le World Wide Web [ˌwɝld waɪd ˈwɛb]a (litt. la « toile (d’araignée) mondiale », abrégé www ou le Web), le réseau mondial ou la Toile, est un système hypertexte public fonctionnant sur Internet. Le Web permet de consulter, avec un navigateur, des pages accessibles sur des sites. L’image de la toile d’araignée vient des hyperliens qui lient les pages web entre ellesb.
+
+
+
+Le Web n’est qu’une des applications d’Internet1, distincte d’autres applications comme le courrier électronique, la messagerie instantanée et le partage de fichiers en pair à pair. Le Web est inventé le 12 mars 1989 au CERN, à Meyrin, près de Genève par Tim Berners-Lee et le Belge Robert Cailliau plusieurs années après Internet2. C'est également le Web qui a rendu les médias grand public attentifs à Internet. Depuis, le Web est fréquemment confondu avec Internet3 ; en particulier, le mot Toile est souvent utilisé dans les textes non techniques sans qu'il soit clair si l'auteur désigne le Web ou Internet.
+
