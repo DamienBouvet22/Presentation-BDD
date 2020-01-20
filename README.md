@@ -11,6 +11,7 @@
 (le fichier pdf est pullable dans le repo #langage_de_Geek)
 ![alt text](https://github.com/DamienBouvet22/Presentation-BDD/raw/master/Lesbasesdedonnees/Lesbasesdedonnees-01.jpg "Page de Couv")
 
+<<<<<<< HEAD
 ![alt text](https://github.com/DamienBouvet22/Presentation-BDD/raw/master/Lesbasesdedonnees/Lesbasesdedonnees-02.jpg "Internet et Web")
 
 ![alt text](https://github.com/DamienBouvet22/Presentation-BDD/raw/master/Lesbasesdedonnees/Lesbasesdedonnees-03.jpg "Navigateur et client")
@@ -30,3 +31,5 @@
 ![alt text](https://github.com/DamienBouvet22/Presentation-BDD/raw/master/Lesbasesdedonnees/Lesbasesdedonnees-10.jpg "MySQL PHP")
 
 ![alt text](https://github.com/DamienBouvet22/Presentation-BDD/raw/master/Lesbasesdedonnees/Lesbasesdedonnees-11.jpg "Internet")
+
+
