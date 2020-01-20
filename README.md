@@ -11,3 +11,6 @@
 
 (le fichier pdf est pullable dans le repo #langage_de_Geek)
 
+![alt text][logo]
+**************
+[logo]: https://github.com/DamienBouvet22/Presentation-BDD/blob/master/Lesbasesdedonn%C3%A9es/Lesbasesdedonn%C3%A9es-01.jpg "Couverture"
