@@ -1,6 +1,6 @@
 # Presentation-BDD
 
-[Historique du Web](https://www.internetlivestats.com/)
+[Stats du Web](https://www.internetlivestats.com/)
 
 ## Fonctionnement d'un site Web dynamique
 ![alt text][logo]
