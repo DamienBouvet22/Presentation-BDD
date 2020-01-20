@@ -13,4 +13,4 @@
 
 ![alt text][logo]
 **************
-[logo]: https://github.com/DamienBouvet22/Presentation-BDD/blob/master/Lesbasesdedonn%C3%A9es/Lesbasesdedonn%C3%A9es-01.jpg "Couverture"
+[logo]: https://github.com/DamienBouvet22/Presentation-BDD/raw/master/Lesbasesdedonnees/Lesbasesdedonnees-01.jpg "Couverture"
