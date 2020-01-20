@@ -26,6 +26,7 @@ phpMyAdmin (PMA) est une application Web de gestion pour les systèmes de gestio
 Il existe plusieurs façons d'accéder à sa base de données et d'y faire des modifications.
 On peut utiliser une ligne de commande (console), exécuter les requêtes en PHP ou faire appel à un programme qui nous permet d'avoir rapidement une vue d'ensemble.
 Dans ce dernier cas, phpMyAdmin, est un des outils les plus connus permettant de manipuler une base de données MySQL.
+C'est en réalité un ensemble de pages PHP (et en rien un programme) qui simplifient la tâche du programmeur en offrant une interface simple et efficace pour gérer les différentes bases de données du site.
 
 
 PHP: Hypertext Preprocessor8, plus connu sous son sigle PHP (sigle auto-référentiel), est un langage de programmation libre9, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP8, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet.
