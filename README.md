@@ -33,3 +33,5 @@
 ![alt text](https://github.com/DamienBouvet22/Presentation-BDD/raw/master/Lesbasesdedonnees/Lesbasesdedonnees-11.jpg "Internet")
 
 
+## Memo SQL
+[Voici un memo de SQL. Merci Matthias](https://github.com/DamienBouvet22/Presentation-BDD/raw/master/MemoSQL.pdf)
