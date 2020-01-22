@@ -34,4 +34,4 @@
 
 
 ## Memo SQL
-[Voici un memo de SQL. Merci Matthias](https://github.com/DamienBouvet22/Presentation-BDD/raw/master/MemoSQL.pdf)
+[Voici un memo de SQL. Merci Matthias](https://github.com/DamienBouvet22/Presentation-BDD/blob/master/MemoSQL.pdf)
